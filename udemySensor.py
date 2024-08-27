@@ -185,7 +185,7 @@ class LoadingWindow(tk.Toplevel):
 class ProgressWindow(tk.Toplevel):
     def __init__(self, master, course_data, total_points, *args, **kwargs):
         super().__init__(master, *args, **kwargs)
-        self.title("Capturando Datos de Udemy")
+        self.title("Udemy courses progress sensor")
 
         self.protocol("WM_DELETE_WINDOW", self.on_close)
 
