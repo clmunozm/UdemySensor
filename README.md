@@ -4,7 +4,7 @@ This sensor uses the Udemy API to retrieve information about the user's courses,
 # Run with Python
 To run the sensor, use the following command in the console within the file directory:
 ```shell
-python udemySennsor.py
+python udemySensor.py
 ```
 
 # Login bGames
@@ -16,6 +16,7 @@ To obtain the access token from the browser cookies, once logged into Udemy:
 * Click on “Applications”
 * Click on “Cookies”
 * Then search for “access_token”. It should look like a random string.
+* 
 ![screenshot_Udemy](https://github.com/user-attachments/assets/49436507-64e1-449a-a5ea-7506d0064392)
 
 
