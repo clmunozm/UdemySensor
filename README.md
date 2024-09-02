@@ -9,8 +9,7 @@ python udemySensor.py
 
 # Login bGames
 Once the sensor starts, it's necessary to log in using your bGames credentials
-(For configuring the bGames cloud module, you can check the following repository: 
-* [bGames]([https://docs.docker.com/get-docker/](https://github.com/BlendedGames-bGames/bGames-dev-services/)
+(For configuring the bGames cloud module, you can check the following repository: [bGames](https://github.com/BlendedGames-bGames/bGames-dev-services/))
 
 # Get access token
 To obtain the access token from the browser cookies, once logged into Udemy:
